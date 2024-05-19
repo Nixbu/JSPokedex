@@ -135,7 +135,7 @@ const PokemonFetcher = () => {
           ID.
         </p>
       </div>
-      <div className="copyright">© 2024 Nir</div> {/* Add copyright */}
+      <div className="copyright">© 2024 Nirs</div> {/* Add copyright */}
       <div className="navigation-buttons">
         <button onClick={handlePrevious}>Previous</button>
         <button onClick={handleNext}>Next</button>
