@@ -1,8 +1,8 @@
-# Pokémon Fetcher
+# Pokédex
 
 ## Overview
 
-This application allows users to search for Pokémon by name or ID and view their details. It utilizes the [PokéAPI](https://pokeapi.co/) to fetch Pokémon data.
+Welcome to the Pokédex! This application allows users to search for Pokémon by name or ID and view their details. It utilizes the [PokéAPI](https://pokeapi.co/) to fetch Pokémon data.
 
 ## Features
 
@@ -30,6 +30,10 @@ To run this application locally, follow these steps:
 - Enter a Pokémon name or ID in the search input field and press Enter to fetch its details.
 - Use the "Previous" and "Next" buttons to navigate through Pokémon.
 - Enjoy exploring Pokémon data!
+
+## Deployed Version
+
+Check out the deployed version of the Pokédex [here](https://js-pokedex-pf6flkgao-nixbus-projects.vercel.app/).
 
 ## Credits
 
